@@ -1,0 +1,11 @@
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\bin\Debug\netcoreapp3.1\Uvod_U_Cs.exe
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\bin\Debug\netcoreapp3.1\Uvod_U_Cs.deps.json
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\bin\Debug\netcoreapp3.1\Uvod_U_Cs.runtimeconfig.json
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\bin\Debug\netcoreapp3.1\Uvod_U_Cs.runtimeconfig.dev.json
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\bin\Debug\netcoreapp3.1\Uvod_U_Cs.dll
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\bin\Debug\netcoreapp3.1\Uvod_U_Cs.pdb
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\obj\Debug\netcoreapp3.1\Uvod_U_Cs.csprojAssemblyReference.cache
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\obj\Debug\netcoreapp3.1\Uvod_U_Cs.AssemblyInfoInputs.cache
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\obj\Debug\netcoreapp3.1\Uvod_U_Cs.AssemblyInfo.cs
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\obj\Debug\netcoreapp3.1\Uvod_U_Cs.dll
+D:\Git\RPPOON\RPPOON_LV\LV1\Uvod_U_Cs\Uvod_U_Cs\obj\Debug\netcoreapp3.1\Uvod_U_Cs.pdb
