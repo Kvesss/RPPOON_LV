@@ -1,0 +1,11 @@
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\bin\Debug\netcoreapp3.1\Cist_Kod.exe
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\bin\Debug\netcoreapp3.1\Cist_Kod.deps.json
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\bin\Debug\netcoreapp3.1\Cist_Kod.runtimeconfig.json
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\bin\Debug\netcoreapp3.1\Cist_Kod.runtimeconfig.dev.json
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\bin\Debug\netcoreapp3.1\Cist_Kod.dll
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\bin\Debug\netcoreapp3.1\Cist_Kod.pdb
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\obj\Debug\netcoreapp3.1\Cist_Kod.csprojAssemblyReference.cache
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\obj\Debug\netcoreapp3.1\Cist_Kod.AssemblyInfoInputs.cache
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\obj\Debug\netcoreapp3.1\Cist_Kod.AssemblyInfo.cs
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\obj\Debug\netcoreapp3.1\Cist_Kod.dll
+D:\Git\RPPOON\RPPOON_LV\LV2\Cist_Kod\Cist_Kod\obj\Debug\netcoreapp3.1\Cist_Kod.pdb
