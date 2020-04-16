@@ -8,23 +8,22 @@ namespace Cist_Kod
     {
         private int numberOfSides;
         private RandomGenerator randomGenerator;
-        //private Random randomGenerator; 2.zad
+        //private Random randomGenerator; //2.zad
 
-        //public Die(int numberOfSides)         1.zad
-        //{
-        //    this.numberOfSides = numberOfSides;
-        //    this.randomGenerator = new Random();
+        //    public Die(int numberOfSides)       //  1.zad
+        //    {
+        //        this.numberOfSides = numberOfSides;
+        //        this.randomGenerator = new Random();
         //}
 
 
-        public Die( int numberOfSides= 6)
+        public Die(int numberOfSides = 6)
         {
             this.numberOfSides = numberOfSides;
-            this.randomGenerator = RandomGenerator.GetInstance();
         }
         public int Roll()
         {
-            //int rolledNumber = randomGenerator.NextInt(1, numberOfSides + 1);
+            this.randomGenerator = RandomGenerator.GetInstance();
             int rolledNumber = randomGenerator.NextInt(1, numberOfSides + 1);
             return rolledNumber;
         }

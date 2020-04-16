@@ -28,5 +28,4 @@ namespace Cist_Kod
         //        writer.WriteLine(message);
         //    }
     }
-    }
 }
