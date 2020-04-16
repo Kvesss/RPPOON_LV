@@ -43,7 +43,7 @@ namespace Cist_Kod
 
             //3.zad
 
-            RandomGenerator randomGenerator = RandomGenerator.GetInstance();
+            //RandomGenerator randomGenerator = RandomGenerator.GetInstance();
             DiceRoller roller = new DiceRoller();
             for (int counter = 0; counter < 20; counter++)
             {
