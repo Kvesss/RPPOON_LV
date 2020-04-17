@@ -37,7 +37,10 @@ namespace Cist_Kod
             for(int i = 0; i < dice.Count; i++)
             {
                 if (dice[i].GetNumberOfSides() == number)
+                {
                     dice.RemoveAt(i);
+                    i--;
+                }
             }
         }
 
