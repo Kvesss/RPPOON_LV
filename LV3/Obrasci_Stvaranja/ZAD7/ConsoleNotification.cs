@@ -33,8 +33,8 @@ namespace ZAD7
             ConsoleNotification clone = new ConsoleNotification(this.Author, this.Title, this.Text, this.Timestamp, this.Level, this.Color);
             return (ConsoleNotification)clone;
             /*Hoće li biti razlike između plitkog i dubokog kopiranja ovisi o svrsi tih obavijesti i njihovih kopija.
-            U ovom slučaju ne mijenjaju se atributi poruka već je bitno samo stvoriti kopiju pa je dovoljno i plitko kopiranje,
-            ali ako bi npr. trebalo uvesti promjenu stanja , a staru verziju sačuvati  tada bi bilo potrebno duboko kopiranje
+            U ovom slučaju ne mijenjaju se atributi poruka već je bitno samo stvoriti kopiju pa je dovoljno i plitko kopiranje jer su svi atributi value tipovi podataka,
+            ali ako bi npr. trebalo uvesti novi atribut koji je reference tipa te promijeniti njegovo stanje, a staru verziju sačuvati  tada bi bilo potrebno duboko kopiranje
             kako bi kloniranje stvorilo novi neovisan objekt.*/
         }
     }
