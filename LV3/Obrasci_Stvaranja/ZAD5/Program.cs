@@ -6,19 +6,27 @@ namespace ZAD5
     {
         static void Main(string[] args)
         {
-            NotificationDirector director = new NotificationDirector();
-            NotificationBuilder alertBuilder = new NotificationBuilder();
-            director.ConstructAlertNotification(alertBuilder, "David Kvesic");
-            ConsoleNotification alertNote = alertBuilder.Build();
             NotificationManager manager = new NotificationManager();
+            NotificationDirector director = new NotificationDirector();
+            NotificationBuilder Builder = new NotificationBuilder();
+            director.ConstructAlertNotification(Builder, "David Kvesic");
+            ConsoleNotification alertNote = Builder.Build();
             manager.Display(alertNote);
 
-            NotificationBuilder ErrorBuilder = new NotificationBuilder();
-            ErrorBuilder.SetColor(ConsoleColor.Magenta);
-            director.ConstructErrorNotification(ErrorBuilder, "John Doe");
-            ErrorBuilder.SetText("Hello World!");
-            ConsoleNotification errorNote = ErrorBuilder.Build();
+            //NotificationBuilder ErrorBuilder = new NotificationBuilder();
+            Builder.SetColor(ConsoleColor.Magenta);
+            director.ConstructErrorNotification(Builder, "John Doe");
+            Builder.SetText("Hello World!");
+            ConsoleNotification errorNote = Builder.Build();
             manager.Display(errorNote);
+
+            Builder.SetColor(ConsoleColor.Green);
+            Builder.SetText("Information");
+            ConsoleNotification infoNote = Builder.Build();
+            director.ConstructInfoNotification(Builder, "Unknown");
+            manager.Display(infoNote);
+
+
         }
     }
 }
