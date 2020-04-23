@@ -1,0 +1,11 @@
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\bin\Debug\netcoreapp3.1\Obrasci_Stvaranja.exe
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\bin\Debug\netcoreapp3.1\Obrasci_Stvaranja.deps.json
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\bin\Debug\netcoreapp3.1\Obrasci_Stvaranja.runtimeconfig.json
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\bin\Debug\netcoreapp3.1\Obrasci_Stvaranja.runtimeconfig.dev.json
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\bin\Debug\netcoreapp3.1\Obrasci_Stvaranja.dll
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\bin\Debug\netcoreapp3.1\Obrasci_Stvaranja.pdb
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\obj\Debug\netcoreapp3.1\Obrasci_Stvaranja.csprojAssemblyReference.cache
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\obj\Debug\netcoreapp3.1\Obrasci_Stvaranja.AssemblyInfoInputs.cache
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\obj\Debug\netcoreapp3.1\Obrasci_Stvaranja.AssemblyInfo.cs
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\obj\Debug\netcoreapp3.1\Obrasci_Stvaranja.dll
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\Obrasci_Stvaranja\obj\Debug\netcoreapp3.1\Obrasci_Stvaranja.pdb

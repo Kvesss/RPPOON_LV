@@ -1,0 +1,11 @@
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\bin\Debug\netcoreapp3.1\ZAD7.exe
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\bin\Debug\netcoreapp3.1\ZAD7.deps.json
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\bin\Debug\netcoreapp3.1\ZAD7.runtimeconfig.json
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\bin\Debug\netcoreapp3.1\ZAD7.runtimeconfig.dev.json
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\bin\Debug\netcoreapp3.1\ZAD7.dll
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\bin\Debug\netcoreapp3.1\ZAD7.pdb
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\obj\Debug\netcoreapp3.1\ZAD7.csprojAssemblyReference.cache
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\obj\Debug\netcoreapp3.1\ZAD7.AssemblyInfoInputs.cache
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\obj\Debug\netcoreapp3.1\ZAD7.AssemblyInfo.cs
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\obj\Debug\netcoreapp3.1\ZAD7.dll
+D:\Git\RPPOON\RPPOON_LV\LV3\Obrasci_Stvaranja\ZAD7\obj\Debug\netcoreapp3.1\ZAD7.pdb
