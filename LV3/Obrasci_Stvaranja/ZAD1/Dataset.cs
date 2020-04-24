@@ -65,7 +65,7 @@ namespace Obrasci_Stvaranja
             /*U ovom slučaju duboko kopiranje daje iste rezultate kao i plitko jer se traži samo testiranje s ispisom.
             Ali u slučaju mijenjanja atributa objekta kod plitkog kopiranja imali bi problem, jer se kod reference tipova
             podataka kopira samo referenca na objekt pa se 2 reference odnose na isti objekt. time se promjenom stanja jednog objekta
-            implicitno mijenjaju i ostali objekti s kojima dijeli taj objekt. U tom slučaju nužno je duboko kopiranje radi spriječavanja toga.*/
+            implicitno mijenjaju i ostali objekti s kojima dijeli taj objekt. U tom slučaju nužno je duboko kopiranje radi sprječavanja toga.*/
 
             return clone;
         }

@@ -32,6 +32,10 @@ namespace ZAD2
                     randomMatrix[i][j] = generator.NextDouble();
                 }
             }
+            /*Metoda koja stvara matricu popunjenu pseudo-slučajnim brojevima u ovom slučaju ima
+            jednu odgovornost jer je posao alociranja nove matrice prenesen u zasebnu metodu "AllocateMatrix().
+            Metoda GenerateRandomMatrix() popunjava tu matricu i vraća ju.*/
+
             return randomMatrix;
         }
         public double[][] AllocateMatrix(int rows, int cols)
