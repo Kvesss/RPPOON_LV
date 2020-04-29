@@ -6,7 +6,7 @@ namespace ZAD6_7
     {
         static void Main(string[] args)
         {
-            RegistrationValidator validator = new RegistrationValidator(new EmailValidator(), new PasswordValidator(8));
+            RegistrationValidator validator = new RegistrationValidator(new EmailValidator(), new PasswordValidator());
             while (true)
             {
                 UserEntry entry = UserEntry.ReadUserFromConsole();

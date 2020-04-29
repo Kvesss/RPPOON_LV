@@ -7,7 +7,7 @@ namespace ZAD6_7
     class PasswordValidator : IPasswordValidatorService
     {
         public int MinLength { get; private set; }
-        public PasswordValidator(int minLength)
+        public PasswordValidator(int minLength = 8)
         {
             this.MinLength = minLength;
         }
