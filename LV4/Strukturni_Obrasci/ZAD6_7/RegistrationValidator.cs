@@ -6,16 +6,15 @@ namespace ZAD6_7
 {
     class RegistrationValidator : IRegistrationValidator
     {
-        
-
-        public RegistrationValidator(EmailValidator emailValidator, PasswordValidator passwordValidator)
-        {
-            this.EmailValidator = emailValidator;
-            this.PasswordValidator= passwordValidator;
-        }
-
         public EmailValidator EmailValidator { get; }
         public PasswordValidator PasswordValidator { get; }
+
+        public RegistrationValidator(int minLength = 8)
+        {
+            this.EmailValidator = new EmailValidator();
+            this.PasswordValidator= new PasswordValidator(minLength);
+        }
+
 
         public bool IsUserEntryValid(UserEntry entry)
         {
