@@ -1,0 +1,11 @@
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\bin\Debug\netcoreapp3.1\ZAD1-2.exe
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\bin\Debug\netcoreapp3.1\ZAD1-2.deps.json
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\bin\Debug\netcoreapp3.1\ZAD1-2.runtimeconfig.json
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\bin\Debug\netcoreapp3.1\ZAD1-2.runtimeconfig.dev.json
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\bin\Debug\netcoreapp3.1\ZAD1-2.dll
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\bin\Debug\netcoreapp3.1\ZAD1-2.pdb
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\obj\Debug\netcoreapp3.1\ZAD1-2.csprojAssemblyReference.cache
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\obj\Debug\netcoreapp3.1\ZAD1-2.AssemblyInfoInputs.cache
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\obj\Debug\netcoreapp3.1\ZAD1-2.AssemblyInfo.cs
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\obj\Debug\netcoreapp3.1\ZAD1-2.dll
+D:\Git\RPPOON\RPPOON_LV\LV4\Strukturni_Obrasci\ZAD1-2\obj\Debug\netcoreapp3.1\ZAD1-2.pdb
