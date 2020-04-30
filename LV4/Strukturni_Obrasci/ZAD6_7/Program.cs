@@ -35,7 +35,7 @@ namespace ZAD6_7
                 }
                 Console.WriteLine("Invalid entry!\nTry again!\n");
             }
-
+            Console.WriteLine("User entry successful");
 
         }
     }
