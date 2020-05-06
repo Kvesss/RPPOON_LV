@@ -20,6 +20,9 @@ namespace ZAD1_2
             ShippingService shippingService = new ShippingService(0.5);
             double deliveryPrice = shippingService.CalculateDeliveryPrice(boxingBox);
             Console.WriteLine("Delivery price: " + deliveryPrice);
+            shippingService.PricePerKg = 1;
+            deliveryPrice = shippingService.CalculateDeliveryPrice(boxingBox);
+            Console.WriteLine("Delivery price: " + deliveryPrice);
         }
     }
 }

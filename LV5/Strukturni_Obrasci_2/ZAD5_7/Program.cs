@@ -20,22 +20,31 @@ namespace ZAD5_7
 
             Console.WriteLine("Zad 6    *************************");
             //Zad 6
-            GroupNote groupNote = new GroupNote("Football, 5PM. ", consoleTheme);
-            List<string> players = new List<string>();
-            players.Add("Luis Nazario de Lima Ronaldo");
-            players.Add("Ronaldo de Assis Morreira");
-            players.Add("Luis Figo");
-            groupNote.AddNames(players);
-            groupNote.Show();
-            groupNote.AddName("Milan Rapaić");
-            groupNote.RemoveName("Luis Figo");
-            groupNote.Show();
+            GroupNote homeTeam = new GroupNote("Football, 5PM. ", consoleTheme);
+            List<string> homeTeamPlayers = new List<string>();
+            homeTeamPlayers.Add("Luis Nazario de Lima Ronaldo");
+            homeTeamPlayers.Add("Ronaldo de Assis Morreira");
+            homeTeamPlayers.Add("Luis Figo");
+            homeTeam.AddNames(homeTeamPlayers);
+            homeTeam.AddName("Milan Rapaić");
+            homeTeam.RemoveName("Luis Figo");
+            homeTeam.Show();
+
+            consoleTheme = new MagentaWhiteTheme();
+            GroupNote awayTeam = new GroupNote("Football, 5PM. ", consoleTheme);
+            List<string> awayTeamPlayers = new List<string>();
+            awayTeamPlayers.Add("Edgar Davids");
+            awayTeamPlayers.Add("Christian Vieri");
+            awayTeamPlayers.Add("Ruud Van Nistelrooy");
+            awayTeam.AddNames(awayTeamPlayers);
+            awayTeam.Show();
+
 
             //Zad 7
             Console.WriteLine("Zad 7    *************************");
             Notebook notebook = new Notebook();
             notebook.AddNote(note);
-            notebook.AddNote(groupNote);
+            notebook.AddNote(homeTeam);
             notebook.Display();
 
             consoleTheme = new LightTheme();
@@ -45,7 +54,7 @@ namespace ZAD5_7
             ITheme MagentaWhiteTheme = new MagentaWhiteTheme();
             Notebook magentaNotebook = new Notebook(MagentaWhiteTheme);
             magentaNotebook.AddNote(note);
-            magentaNotebook.AddNote(groupNote);
+            magentaNotebook.AddNote(homeTeam);
             magentaNotebook.Display();
 
         }

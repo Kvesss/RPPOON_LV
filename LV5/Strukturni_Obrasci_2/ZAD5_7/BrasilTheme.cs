@@ -13,7 +13,7 @@ namespace ZAD5_7
 
         public string GetHeader(int width)
         {
-            return new string('+', width);
+            return new string('!', width);
         }
 
         public void SetBackgroundColor()

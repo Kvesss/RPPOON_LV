@@ -6,7 +6,7 @@ namespace ZAD1_2
 {
     class ShippingService
     {
-        public double PricePerKg { get; private set; }
+        public double PricePerKg { get; set; }
 
         public ShippingService(double pricePerKg)
         {

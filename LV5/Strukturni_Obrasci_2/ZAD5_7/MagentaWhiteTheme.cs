@@ -16,11 +16,11 @@ namespace ZAD5_7
         }
         public string GetHeader(int width)
         {
-            return new string('+', width);
+            return new string('°', width);
         }
         public string GetFooter(int width)
         {
-            return new string('_', width);
+            return new string('°', width);
         }
     }
 }
