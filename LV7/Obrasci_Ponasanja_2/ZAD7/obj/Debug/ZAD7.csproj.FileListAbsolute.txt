@@ -1,0 +1,6 @@
+D:\Git\RPPOON\RPPOON_LV\LV7\Obrasci_Ponasanja_2\ZAD7\bin\Debug\ZAD7.exe.config
+D:\Git\RPPOON\RPPOON_LV\LV7\Obrasci_Ponasanja_2\ZAD7\bin\Debug\ZAD7.exe
+D:\Git\RPPOON\RPPOON_LV\LV7\Obrasci_Ponasanja_2\ZAD7\bin\Debug\ZAD7.pdb
+D:\Git\RPPOON\RPPOON_LV\LV7\Obrasci_Ponasanja_2\ZAD7\obj\Debug\ZAD7.csprojAssemblyReference.cache
+D:\Git\RPPOON\RPPOON_LV\LV7\Obrasci_Ponasanja_2\ZAD7\obj\Debug\ZAD7.exe
+D:\Git\RPPOON\RPPOON_LV\LV7\Obrasci_Ponasanja_2\ZAD7\obj\Debug\ZAD7.pdb
